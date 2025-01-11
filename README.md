@@ -1,5 +1,3 @@
-learning webdev & machine learning
-
 <!---
-
+aka Zexired
 --->
